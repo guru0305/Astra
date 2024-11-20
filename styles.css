@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background: #333;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.hero .button {
+    color: white;
+    background: #007bff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color: #007bff;
+}
+
+.gallery img {
+    width: 200px;
+    height: auto;
+    margin: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: white;
+}
